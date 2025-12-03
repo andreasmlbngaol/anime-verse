@@ -109,12 +109,12 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: anime-verse-${{ needs.build.outputs.version }}
-          path: ./
+          path: build/
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: app-release.apk
+          files: build/app-release.apk
           body: |
             ## Anime Verse v${{ needs.build.outputs.version }}
             
