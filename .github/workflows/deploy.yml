@@ -4,10 +4,11 @@ on:
   push:
     branches:
       - main
-      - master
-      - feature/manual-http-implementation
     tags:
       - 'v*'
+    paths-ignore:
+      - 'README.md'
+      - 'docs/**'
   workflow_dispatch:
 
 permissions:
