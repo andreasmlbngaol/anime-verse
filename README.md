@@ -20,22 +20,22 @@ Anime Verse adalah aplikasi untuk menjelajahi dunia anime dengan cepat dan simpe
 ## 📸 Tampilan Aplikasi
 
 **Register Page**  
-![Register Page](docs/register_page.png)
+<img src="docs/register_page.png" width="350"/>
 
 **Login Page**  
-![Login Page](docs/login_page.png)
+<img src="docs/login_page.png" width="350" />
 
 **Anime List Page**  
-![Anime List Page](docs/anime_list_page.png)
+<img src="docs/anime_list_page.png" width="350" />
 
 **Anime Detail Page**  
-![Anime Detail Page](docs/anime_detail_page.png)
+<img src="docs/anime_detail_page.png" width="350" />
 
 **Favorite Page**  
-![Favorite Page](docs/favorite_page.png)
+<img src="docs/favorite_page.png" width="350" />
 
 **Profile Page**  
-![Profile Page](docs/profile_page.png)
+<img src="docs/profile_page.png" width="350" />
 
 ## 🎥 Demo Aplikasi
 
